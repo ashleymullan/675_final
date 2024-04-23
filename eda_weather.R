@@ -1,5 +1,5 @@
 library(tidyverse)
-df <- read_csv("/Users/ashleymullan/Downloads/weatherHistory.csv")
+df <- read_csv("/Users/ashleymullan/Downloads/weatherHistory.csv") #change file path as needed
 df |> View()
 
 df |> 
