@@ -1,1 +1,10 @@
 intro video: https://www.youtube.com/watch?v=UNmqTiOnRfg 
+
+example paper: https://www.researchgate.net/profile/Mohamed-Akram-Zaytar/publication/304066008_Sequence_to_Sequence_Weather_Forecasting_with_Long_Short-Term_Memory_Recurrent_Neural_Networks/links/591c35b60f7e9b7727da05cc/Sequence-to-Sequence-Weather-Forecasting-with-Long-Short-Term-Memory-Recurrent-Neural-Networks.pdf
+
+example paper: https://www.sciencedirect.com/science/article/pii/S187705091831439X
+
+example paper: https://link.springer.com/article/10.1007/s10044-020-00898-1
+
+paper (shows transformer is bad idea): https://ojs.aaai.org/index.php/AAAI/article/view/26317
+
