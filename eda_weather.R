@@ -13,7 +13,7 @@ df <- df |> clean_names()
 df$hour <- df |> pull(formatted_date) |> substring(12,13)
 
 #filter to every six hours
-df <- df |> filter(hour %in% c("00", "06", "12", "18")) 
+df <- df |> filter(hour %in% c("00", "03", "06", "09", "12", "15", "18", "21")) 
 
 #cut to columns we're using
 df <- df[,3:11]
